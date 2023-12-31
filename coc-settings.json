@@ -1,0 +1,18 @@
+{
+  "coc.preferences.extensionUpdateCheck": "weekly",
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length", "99"],
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.virtualText": true,
+  "diagnostic.messageTarget": "echo",
+  "diagnostic.errorSign": "⨉",
+  "diagnostic.hintSign": "→",
+  "diagnostic.infoSign": "",
+  "codeLens.position": "eol",
+  "codeLens.enable": true,
+  "solargraph.diagnostics": true,
+  "colors.enable": true,
+  "inlayHint.enable": false,
+  "snippets.ultisnips.enable": false,
+  "snippets.ultisnips.pythonPrompt": false
+}
